@@ -4,7 +4,7 @@ This is where I store my cyber Weapons which is created in Kali linux, if you wa
 ## Social Links
 * [Linkedin](https://www.linkedin.com/in/itsamanyadav18/)
 * [Twitter](https://twitter.com/its_aman_yadav)
-* [Instagram](https://instagram.com/in/its_aman_yadav)
+* [Instagram](https://instagram.com/its_aman_yadav)
 
 
 ## Thank you, have fun with my tools
