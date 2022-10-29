@@ -35,7 +35,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn Aman$red◀$rset"
-echo -e "$red                      ⫸$ylo Its Aman Yadav$red ⫷$rset"
+echo -e "$red                      ⫸$ylo Brahmastra$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Fuck them]$rset"
