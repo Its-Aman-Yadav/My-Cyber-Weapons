@@ -21,7 +21,7 @@ Kali Linux as well as on Termux also
 * `pkg install git -y`
 * `pip install lolcat`
 * `git clone https://github.com/its-Aman-Yadav/My-Cyber-Weapons`
-* `cd $HOME`
+* `cd My-Cyber-Weapons`
 * `ls`
 * `cd Brahmastra`
 * `ls`
