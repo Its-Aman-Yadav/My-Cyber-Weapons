@@ -28,4 +28,4 @@ Kali Linux as well as on Termux also
 * `bash Brahmastra.sh`
 
 ## WARNING : 
-***This tool is very dangerous so zyada ba**i n kre***
+***This tool is very dangerous so zyada bak### n kre***
