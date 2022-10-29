@@ -1,4 +1,4 @@
-# This tool is by itamanyadav
+# This tool is by Its Aman Yadav
 # Colours
 #-----------------
 red="\e[91m"
@@ -67,7 +67,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn Aman$red◀$rset"
-echo -e "$red                      ⫸$ylo  Fuck them$red ⫷$rset"
+echo -e "$red                      ⫸$ylo  ki jai ho$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                    [Fuck them]$rset"
@@ -232,7 +232,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/noob-hackers/infect 2> /dev/null; do 
+while git clone https://github.com/Its-Aman-Yadav/Weapons-for-linux/tree/main/Link%20Virus 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
@@ -243,11 +243,11 @@ echo
 printf "\e[96m           UPDATE SUCCESSFULL (LATEST VERSION)..!\e[0m"
 sleep 2.0
 cd $HOME
-cd infect
-bash infect.sh
+cd Brahmastra
+bash Brahmastra.sh
 }
 vid(){
-FILE=$HOME/infect/noob.noob
+FILE=$HOME/Brahmastra/noob.noob
 if [ -f "$FILE" ]; then
 pop
 else
@@ -269,7 +269,7 @@ baner1
 menu
 elif [ "$p" = "z" ];
 then
-cd $HOM/infect
+cd $HOM/Brahmastra
 rm noob.noob
 banner
 menu
