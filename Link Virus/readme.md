@@ -8,10 +8,10 @@ Kali Linux as well as on Termux also
 
 ## Requirements :
 
--Internet
--Termux installed
--400MB Storage
--Little bit of brain
+- Internet
+- Termux installed
+- 400MB Storage
+- Little bit of brain
 
 ## Installation Guide :
 * `apt-get update -y`
