@@ -20,7 +20,7 @@ Kali Linux as well as on Termux also
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/its-Aman-Yadav/My-Weapons-for-linux/Brahmastra`
+* `git clone https://github.com/its-Aman-Yadav/My-Cyber-Weapons/Brahmastra`
 * `cd $HOME`
 * `ls`
 * `cd Brahmastra`
