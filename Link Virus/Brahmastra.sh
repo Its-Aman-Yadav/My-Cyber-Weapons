@@ -247,7 +247,7 @@ cd Brahmastra
 bash Brahmastra.sh
 }
 vid(){
-FILE=$HOME/Brahmastra/noob.noob
+FILE=$HOME/Brahmastra/test.test
 if [ -f "$FILE" ]; then
 pop
 else
@@ -270,7 +270,7 @@ menu
 elif [ "$p" = "z" ];
 then
 cd $HOM/Brahmastra
-rm noob.noob
+rm test.test
 banner
 menu
 else
