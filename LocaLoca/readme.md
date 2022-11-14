@@ -42,10 +42,6 @@ For ex:- python LocaLoca.py -v 127.0.0.1
 That's it
 
 ```
-## USAGE OPTIONS [Termux] :
-
-__SCAN__ :
-- From this option you can start tracking ip ocation
 
 ## WARNING : 
 ***This tool is not only for educational purpose. Toh jo man kre kro! .***
