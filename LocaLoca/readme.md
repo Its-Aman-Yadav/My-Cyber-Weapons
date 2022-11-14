@@ -38,7 +38,7 @@ Loca Loca is a tool created by Aman Yadav to show location of a phone by their I
 * `ls`
 * `python LocaLoca.py -v (your victim ip here)`
 ```
-For ex:- python LocaLoca.py -v 127.0,0.1
+For ex:- python LocaLoca.py -v 127.0.0.1
 That's it
 
 ```
