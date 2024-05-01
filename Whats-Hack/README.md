@@ -1,11 +1,7 @@
-### WhatsAppHacking and WhatsAppCrashing 1.5v
+### Whats-Hack
 A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App Format to Hack and Extract All WhatsApp Media Files.
 
 ### Note Please: This Script Usage for exploiting targets without prior mutual consent is illegal.. 
-       Only Use For Educational Purposes. 
-       Please try not to harm anyone device.
-
-### If you have questions or need any help with full whatsapp messages black script, message me here: https://t.me/BitWalls_Sec Email Me: bitwallssec@gmail.com
 
 ### Installation Guide on Any Linux Distribution:
 ```
@@ -44,9 +40,9 @@ cd /opt/android-studio/bin
 bash studio.sh
 
 Execute script:
-# git clone https://github.com/BitWalls-Sec/WhatsAppHacking.git
-# cd whatshack/
-# ./whatshack.sh
+# git clone https://github.com/Its-Aman-Yadav/My-Cyber-Weapons/tree/main/Whats-Hack
+# cd Whats-Hack/
+# ./Whats-Hack.sh
 
 To Execute Whatsapp Crasher
 # python3 WhatsAppCrasher.py
